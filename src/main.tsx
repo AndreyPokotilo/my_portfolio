@@ -6,7 +6,7 @@ import App from "./App.tsx";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <BrowserRouter basename="/e-fix-and-go">
+    <BrowserRouter basename="/my_portfolio">
       <App />
     </BrowserRouter>
   </StrictMode>
