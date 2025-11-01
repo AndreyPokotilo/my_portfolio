@@ -97,4 +97,4 @@ width: 100%;
 width: 100%;
 `,bg=()=>mt.jsx(Sg,{children:mt.jsx("p",{children:"GALERY"})}),Eg=ul.div`
 width: 100%;
-`,Tg=()=>mt.jsx(Eg,{children:mt.jsx("p",{children:"SERVICE"})});function Ag(){return mt.jsx(Yv,{children:mt.jsxs(wa,{path:"/",element:mt.jsx(gg,{}),children:[mt.jsx(wa,{index:!0,element:mt.jsx(Nh,{})}),mt.jsx(wa,{path:"/service",element:mt.jsx(Tg,{})}),mt.jsx(wa,{path:"/galery",element:mt.jsx(bg,{})}),mt.jsx(wa,{path:"*",element:mt.jsx(Nh,{})})]})})}Qy.createRoot(document.getElementById("root")).render(mt.jsx(z.StrictMode,{children:mt.jsx(f1,{basename:"/e-fix-and-go",children:mt.jsx(Ag,{})})}));
+`,Tg=()=>mt.jsx(Eg,{children:mt.jsx("p",{children:"SERVICE"})});function Ag(){return mt.jsx(Yv,{children:mt.jsxs(wa,{path:"/",element:mt.jsx(gg,{}),children:[mt.jsx(wa,{index:!0,element:mt.jsx(Nh,{})}),mt.jsx(wa,{path:"/service",element:mt.jsx(Tg,{})}),mt.jsx(wa,{path:"/galery",element:mt.jsx(bg,{})}),mt.jsx(wa,{path:"*",element:mt.jsx(Nh,{})})]})})}Qy.createRoot(document.getElementById("root")).render(mt.jsx(z.StrictMode,{children:mt.jsx(f1,{basename:"/my_portfolio",children:mt.jsx(Ag,{})})}));
